@@ -7,3 +7,8 @@ var liveInState = "Georgia";
 var catAge = 6;
 var kittenAge = 2;
 var girlfriendAge = 37;
+
+
+var catSleeping = true;
+var kittenSleeping = true;
+var girlfriendSleeping = false;
